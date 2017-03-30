@@ -1,0 +1,12 @@
+package assi72;
+
+public class substring {
+
+	public static void main(String[] args) {
+		String ss="srimounika";
+		String ss2=ss.substring(3,8);
+		System.out.println("the substring name is "+ss2);
+
+	}
+
+}
